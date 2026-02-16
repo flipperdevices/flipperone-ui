@@ -1,2 +1,2 @@
-# flipper-one-ui
+# flipperone-ui
 Flipper One User Interface 
