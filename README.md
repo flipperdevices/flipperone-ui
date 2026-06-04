@@ -52,7 +52,7 @@ The board has three pages:
 - **UI OUT:** development-ready, assembled UI layouts.
 - **UI Live Preview:** pre-assembled UI layouts for look-and-feel tests on the device.
 
-## UI demo in ProtoPie
+## UI demo in ProtoPie (Deprecated)
 
 ![flipper_one_protopie_demo](https://github.com/user-attachments/assets/572014cd-5c9a-4f6a-9c9d-10d30fdd12d6)
 
