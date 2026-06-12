@@ -56,32 +56,4 @@ The board has three pages:
 
 ![flipper_one_protopie_demo](https://github.com/user-attachments/assets/572014cd-5c9a-4f6a-9c9d-10d30fdd12d6)
 
-[ProtoPie](https://www.protopie.io/) is a prototyping tool for building interactive prototypes of apps and devices. We relied on it before we could prototype directly on the Flipper One screen. While it's now deprecated for our workflow, you can still run the interactive Flipper One interface. ProtoPie works best via the mobile app, but it can also run in a browser without installing the app.
-
-### Launch the ProtoPie demo on your phone
-
-1. Install **ProtoPie Player** on your [Android](https://play.google.com/store/apps/details?id=io.protopie.companion&hl=en&pli=1) or [iOS](https://apps.apple.com/us/app/protopie-player/id1015837511) phone.
-
-2. Open the link on your phone:
-   https://cloud.protopie.io/p/8b3ce95e854c87471d14d3a0
-   
-   or
-   
-   Scan the QR code using the **ProtoPie Player** app:
-
-    <p align="left">
-    <img width="150" height="150" alt="Flipper One ProtoPie interface demo QR Code" src="https://github.com/user-attachments/assets/b02d27f7-1690-4072-8038-fe4582ff8d0b" />
-    </p>
-
-### ProtoPie settings tips
-
-In ProtoPie Player, double-tap with two fingers to access the menu, where you can:
-
-- Tap **Restart** if ProtoPie Player freezes.
-- Switch between different scenes.
-
-![ProtoPie Player menu and tips](files/pics/protopie-tips.jpg)
-
-In **Settings**, you can disable touch highlights and purple hint overlays to prevent them from interfering with the UI preview.
-
-![ProtoPie Player settings](files/pics/protopie-settings.jpg)
+[ProtoPie](https://www.protopie.io/) is a prototyping tool for building interactive prototypes of apps and devices. We relied on it before we could prototype directly on the Flipper One screen and made Flipper One demo on iPhone screen. **It's now deprecated for our workflow.**
