@@ -46,11 +46,14 @@ The [Main board](https://www.figma.com/design/PhlEqdtgjFfcizdVV0qNSR/Flipper-One
 
 ![Flipper One Main board on Figma](files/pics/figma-main-board-overview.png)
 
-The board has three pages:
+**The board pages:**
 
+- **Approved ✅:** development-ready, assembled UI layouts.
 - **Documentation:** illustrations and technical drawings.
-- **UI OUT:** development-ready, assembled UI layouts.
-- **UI Live Preview:** pre-assembled UI layouts for look-and-feel tests on the device.
+- **Selected:** results of RND's and highlighted options.
+- **UI Live Preview:** pre-assembled UI layouts for look-and-feel tests on real Flipper One.
+- **UI Prototyping and RND:** UI drafts for feedback sessions and discussions.
+- **Device prints:** interface printed labels, silk graphics development.
 
 ## UI demo in ProtoPie (Deprecated)
 
